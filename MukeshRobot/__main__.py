@@ -76,7 +76,13 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-**•──────────────────────•**\n**❍ ʜᴇʏ {},\n**•──────────────────────•**\n**❍ ɪ ᴀᴍ {},**\n**❍ ɪ ʜᴀᴠᴇ sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs**\n**•──────────────────────•**\n**❍ ᴜsᴇʀs ➛ {} **\n**❍ ᴄʜᴀᴛs ➛ {} **\n**•──────────────────────•**\n**❍ ɪ ʜᴀᴠᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ғᴇᴀᴛᴜʀᴇs**\n**ᴍᴜsɪᴄ ʙᴏᴛ + ᴄʜᴀᴛʙᴏᴛ + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ**\n**•──────────────────────•**"""
+****\n**❍ ʜᴇʏ {},\n** ──────「 Ꮐᴏᴊᴏ ꕶᴀᴛᴏʀᴜ 」────── 
+
+㋡ ʜɪ, ɪ'ᴍ ᴀᴋᴇɴᴏ HɪᴍᴇJɪᴍᴀ! ᴛʜᴇ ʙᴏᴛ ᴛʜᴀᴛ's ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ sᴘᴇᴇᴅɪɴɢ ʙᴜʟʟᴇᴛ ᴀɴᴅ sᴍᴏᴏᴛʜᴇʀ ᴛʜᴀɴ Jᴀᴢᴢ.
+
+‣ ɪ ʜᴀᴠᴇ ᴍᴀɴʏ ғᴇᴀᴛᴜʀᴇs ᴍᴜsɪᴄ? ɴᴏ ᴘʀᴏʙʟᴇᴍ. ᴍᴀɴᴀɢᴇᴍᴇɴᴛ? ᴘɪᴇᴄᴇ ᴏғ ᴄᴀᴋᴇ. ʟᴀɢ? ɴᴏᴛ ᴏɴ ᴍʏ ᴡᴀᴛᴄʜ!
+
+◉ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ 「 Ꮐᴏᴊᴏ ꕶᴀᴛᴏʀᴜ 」 ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs+**"""
 
 buttons = [
     [
@@ -102,12 +108,12 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/botkild"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/demonios_support"),
         InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(
-            text="• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
+            text="• ᴀᴅᴅ ᴍᴇ  •",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -117,34 +123,34 @@ HELP_STRINGS = f"""
 ❍ *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
 
 ABHI = [
-"https://telegra.ph/file/f19e32b1b5b515956b402.jpg",
-"https://telegra.ph/file/1d4c6826797fb36ea5b92.jpg",
-"https://telegra.ph/file/8c9296b3ec2a367e159e9.jpg",
-"https://telegra.ph/file/129ccbaa0c0b05477a3f7.jpg",
-"https://telegra.ph/file/9e9c427b50a359b428ae2.jpg",
+"https://telegra.ph/file/63ac376c0376956b2d8e4.jpg",
+"https://telegra.ph/file/2fc5589d9d7dff06e286f.jpg",
+"https://telegra.ph/file/78cb68c67499c09d89125.jpg",
+"https://telegra.ph/file/d29120aa703cc6af310ae.jpg",
+"https://telegra.ph/file/a105fd68889034286dc35.jpg",
 "https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/e1da13730ffaff4d82aef.jpg",
-"https://telegra.ph/file/f8334227993b76fd2e5af.jpg",
-"https://telegra.ph/file/3b9208b7966104c19ec85.jpg",
-"https://telegra.ph/file/6f7be044a44d25a04d381.jpg",     
+"https://telegra.ph/file/b8719b281572b48d0b74e.jpg",
+"https://telegra.ph/file/f7063d358f2a1aec5c401.jpg",
+"https://telegra.ph/file/2360f9618642f9dbdb923.jpg",
+"https://telegra.ph/file/bf1b67ec30c2dfeeb198b.jpg",     
 
 ]
 
 NYKAA = [
-"https://telegra.ph/file/f19e32b1b5b515956b402.jpg",
-"https://telegra.ph/file/1d4c6826797fb36ea5b92.jpg",
-"https://telegra.ph/file/8c9296b3ec2a367e159e9.jpg",
-"https://telegra.ph/file/129ccbaa0c0b05477a3f7.jpg",
-"https://telegra.ph/file/9e9c427b50a359b428ae2.jpg",
+"https://telegra.ph/file/63ac376c0376956b2d8e4.jpg",
+"https://telegra.ph/file/2fc5589d9d7dff06e286f.jpg",
+"https://telegra.ph/file/78cb68c67499c09d89125.jpg",
+"https://telegra.ph/file/d29120aa703cc6af310ae.jpg",
+"https://telegra.ph/file/a105fd68889034286dc35.jpg",
 "https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/e1da13730ffaff4d82aef.jpg",
-"https://telegra.ph/file/f8334227993b76fd2e5af.jpg",
-"https://telegra.ph/file/3b9208b7966104c19ec85.jpg",
-"https://telegra.ph/file/6f7be044a44d25a04d381.jpg",    
+"https://telegra.ph/file/b8719b281572b48d0b74e.jpg",
+"https://telegra.ph/file/f7063d358f2a1aec5c401.jpg",
+"https://telegra.ph/file/2360f9618642f9dbdb923.jpg",
+"https://telegra.ph/file/bf1b67ec30c2dfeeb198b.jpg",    
 ]
 
 
-DONATE_STRING = f"""❍ ʜᴇʏ ʙᴀʙʏ, ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ. ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @Shinu_han ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @botkilda ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+DONATE_STRING = f"""❍ ʜᴇʏ ʙᴀʙʏ, ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ. ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @BetLuckers ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @botkilda ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -248,11 +254,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("💛")
+            lol.edit_text("😈")
             time.sleep(0.5)
-            lol.edit_text("🤍")
+            lol.edit_text("⚡️")
             time.sleep(0.3)
-            lol.edit_text("❤️")
+            lol.edit_text("☠️")
             time.sleep(0.4)
             lol.delete()
 
