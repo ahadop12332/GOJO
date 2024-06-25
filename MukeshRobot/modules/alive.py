@@ -11,14 +11,9 @@ from telethon import __version__ as tver
 from MukeshRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID,BOT_NAME,START_IMG
 
 MISHI = [
-    "https://telegra.ph/file/fa572b60698cb9017cc59.jpg",
-    "https://telegra.ph/file/0693ad8ba218cd8727c4a.jpg",
-    "https://telegra.ph/file/134e2adcb7e80e544c7dd.jpg",
-    "https://telegra.ph/file/2fc5589d9d7dff06e286f.jpg",
-    "https://telegra.ph/file/63ac376c0376956b2d8e4.jpg",
-    "https://telegra.ph/file/b8719b281572b48d0b74e.jpg",
-    "https://telegra.ph/file/78cb68c67499c09d89125.jpg",
-    "https://telegra.ph/file/2360f9618642f9dbdb923.jpg"
+    "https://telegra.ph/file/c22ecbd3c714a2baebed9.jpg",
+    "https://telegra.ph/file/1050880a7beea6d71516b.jpg",
+    "https://telegra.ph/file/8842712b3be1c5d94e28e.jpg",
 ]
 
 Mukesh = [
