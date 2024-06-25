@@ -389,16 +389,11 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
     if query.data == "mukesh_":
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_caption(f"*✦ ɪ ᴀᴍ {dispatcher.bot.first_name} ✦*"
-            "\n\n*❍ ɪ ʜᴀᴠᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ + ᴍᴜsɪᴄ ʙᴏᴛ ғᴇᴀᴛᴜʀᴇs.*"
-            "\n\n*❍ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.*"
+            "\n\n*❍ ʜᴇʟʟᴏ ᴛʜɪs ɪs Mɪᴛsᴜꝛɪ ..*"
+            "\n\n*❍ I'ᴍ Hᴇʀᴇ ᴛᴏ Mᴀɴᴀɢᴇ Yᴏᴜʀ Gʀᴏᴜᴘs ɪɴ ᴀ Hᴏʀɴʏ ᴀɴᴅ Eᴀsʏ Wᴀʏ
+     Aɴʏ Issᴜᴇs ᴏʀ Nᴇᴇᴅ Hᴇʟᴘ Rᴇʟᴀᴛᴇᴅ ᴛᴏ Mᴇ Vɪsɪᴛ Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ. .*"
             
-
-            "\n\n❍ ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
-            "\n❍ ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ꜱʏꜱᴛᴇᴍ."
-            "\n❍ ᴀᴅᴠᴀɴᴄᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴄᴀᴘᴀʙɪʟɪᴛʏ."
-            "\n❍ ᴀɴɪᴍᴇ ʙᴏᴛ ғᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ."
-            "\n❍ ᴀɪ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ."
-            f"\n\n❍ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ {dispatcher.bot.first_name}.",
+ {dispatcher.bot.first_name}.",
             parse_mode=ParseMode.MARKDOWN,
 
             reply_markup=InlineKeyboardMarkup(
