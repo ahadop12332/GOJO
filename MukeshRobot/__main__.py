@@ -76,13 +76,14 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-****\n**❍ ʜᴇʏ {},\n** ──────「 Ꮐᴏᴊᴏ ꕶᴀᴛᴏʀᴜ 」────── 
-
-㋡ ʜɪ, ɪ'ᴍ Ꮐᴏᴊᴏ ꕶᴀᴛᴏʀᴜ! ᴛʜᴇ ʙᴏᴛ ᴛʜᴀᴛ's ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ sᴘᴇᴇᴅɪɴɢ ʙᴜʟʟᴇᴛ ᴀɴᴅ sᴍᴏᴏᴛʜᴇʀ ᴛʜᴀɴ Jᴀᴢᴢ.
-
-‣ ɪ ʜᴀᴠᴇ ᴍᴀɴʏ ғᴇᴀᴛᴜʀᴇs ᴍᴜsɪᴄ? ɴᴏ ᴘʀᴏʙʟᴇᴍ. ᴍᴀɴᴀɢᴇᴍᴇɴᴛ? ᴘɪᴇᴄᴇ ᴏғ ᴄᴀᴋᴇ. ʟᴀɢ? ɴᴏᴛ ᴏɴ ᴍʏ ᴡᴀᴛᴄʜ!
-
-◉ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ 「 Ꮐᴏᴊᴏ ꕶᴀᴛᴏʀᴜ 」 ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs+**"""
+****\n**\n**────「  Mɪᴛsᴜꝛɪ  」────
+❂ 𝙷𝙴𝚈 𝙷𝙾𝙽𝙴𝚈 {}...,
+×⋆✦⋆──────────────⋆✦⋆×
+ɪ ᴀᴍ Mɪᴛsᴜꝛɪ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
+ᴀɴᴅ ᴍᴜsɪᴄ ʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ
+ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+×⋆✦⋆──────────────⋆✦⋆×
+ᴄʟɪᴄᴋ ᴏɴ ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ! **"""
 
 buttons = [
     [
@@ -123,30 +124,17 @@ HELP_STRINGS = f"""
 ❍ *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
 
 ABHI = [
-"https://telegra.ph/file/63ac376c0376956b2d8e4.jpg",
-"https://telegra.ph/file/2fc5589d9d7dff06e286f.jpg",
-"https://telegra.ph/file/78cb68c67499c09d89125.jpg",
-"https://telegra.ph/file/d29120aa703cc6af310ae.jpg",
-"https://telegra.ph/file/a105fd68889034286dc35.jpg",
-"https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/b8719b281572b48d0b74e.jpg",
-"https://telegra.ph/file/f7063d358f2a1aec5c401.jpg",
-"https://telegra.ph/file/2360f9618642f9dbdb923.jpg",
-"https://telegra.ph/file/bf1b67ec30c2dfeeb198b.jpg",     
+"https://telegra.ph/file/1050880a7beea6d71516b.jpg",
+"https://telegra.ph/file/8432603937a553a863514.jpg",
+"https://telegra.ph/file/74818fa1738183748a14e.jpg",
+"https://telegra.ph/file/c643e48ca6e4698b7ca31.jpg",
+"https://telegra.ph/file/f33757abeb42adef64377.jpg",
+"https://telegra.ph/file/8842712b3be1c5d94e28e.jpg",
+"https://telegra.ph/file/75676d2bb18bbc1e57798.jpg",
+"https://telegra.ph/file/e4cb8286f9588d1b9b238.jpg",
+"https://telegra.ph/file/d5e81c2f0d6e7b941878e.jpg",
+"https://telegra.ph/file/7a3abd43ee251be438916.jpg",     
 
-]
-
-NYKAA = [
-"https://telegra.ph/file/63ac376c0376956b2d8e4.jpg",
-"https://telegra.ph/file/2fc5589d9d7dff06e286f.jpg",
-"https://telegra.ph/file/78cb68c67499c09d89125.jpg",
-"https://telegra.ph/file/d29120aa703cc6af310ae.jpg",
-"https://telegra.ph/file/a105fd68889034286dc35.jpg",
-"https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/b8719b281572b48d0b74e.jpg",
-"https://telegra.ph/file/f7063d358f2a1aec5c401.jpg",
-"https://telegra.ph/file/2360f9618642f9dbdb923.jpg",
-"https://telegra.ph/file/bf1b67ec30c2dfeeb198b.jpg",    
 ]
 
 
